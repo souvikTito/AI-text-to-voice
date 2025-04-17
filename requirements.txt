@@ -1,0 +1,12 @@
+# This file is used to install the required packages for the project.
+# It is recommended to use a virtual environment to avoid conflicts with other projects.
+
+
+streamlit==1.29.0
+speechrecognition==3.10.0
+pydub==0.25.1
+sounddevice==0.4.6
+soundfile==0.12.1
+python-dotenv==1.0.0
+requests==2.31.0
+numpy==1.26.0
